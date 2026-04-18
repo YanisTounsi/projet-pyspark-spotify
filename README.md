@@ -46,6 +46,7 @@ projet-pyspark-spotify/
 ├── slides/                        # Slides de soutenance
 ├── .gitignore
 └── README.md
+````
 
 ## 👥 Auteurs
 
