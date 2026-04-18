@@ -1,6 +1,6 @@
 # 🎵 Projet PySpark — Analyse du catalogue Spotify
 
-Projet universitaire **Master 2** — Introduction à PySpark.  
+Projet universitaire **Master 1** — Introduction à PySpark.  
 Analyse de 114 000 chansons du catalogue Spotify via Apache Spark en Python.
 
 ## 📊 Objectifs
@@ -38,6 +38,7 @@ Le dataset n'est pas inclus dans le repo. Il se télécharge automatiquement via
 
 ## 📁 Structure du projet
 
+```text
 projet-pyspark-spotify/
 ├── data/                          # Dataset (ignoré par Git)
 ├── notebooks/
